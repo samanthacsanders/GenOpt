@@ -6,7 +6,7 @@ This code finds good hyper-parameter settings for a machine learning algorithm g
 
 ## Usage
 ```
-python run_ga.py -d <path/to/dataset.csv> -o <path/to/output.csv> -l <MLP/SVM/DT> -r <runtime in seconds>
+python run_ga.py -d <path/to/dataset.csv> -o <path/to/output.csv> -l <MLP|SVM|DT> -r <runtime in seconds>
 ```
 
 ## Output
